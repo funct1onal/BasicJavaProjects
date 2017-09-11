@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class stringshit 
+public class StringReverser
 {
    public static void main(String[] args)
    {
