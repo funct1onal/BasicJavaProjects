@@ -1,4 +1,3 @@
-```java
 import java.util.Scanner;
 
 public class stringshit 
@@ -25,4 +24,4 @@ public class stringshit
    }
 
 }
-```
+
